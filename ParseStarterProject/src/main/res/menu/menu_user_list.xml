@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".UserList">
+    <item android:id="@+id/message"
+        android:title="Send a message"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/subUserList"
+        android:title="Sub User List"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/viewSecretMessages"
+        android:title="Private Messages"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/myfeed"
+        android:title="Your Messages"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/feed"
+        android:title="Messages"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/logout"
+        android:title="Logout"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+</menu>

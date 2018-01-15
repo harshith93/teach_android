@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\harshith\\Downloads\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_your_messages.xml",
+        "source": "C:\\Users\\harshith\\Downloads\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\src\\main\\res\\menu\\menu_your_messages.xml"
+    },
+    {
+        "merged": "C:\\Users\\harshith\\Downloads\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_user_list.xml",
+        "source": "C:\\Users\\harshith\\Downloads\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\src\\main\\res\\menu\\menu_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\harshith\\Downloads\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\harshith\\Downloads\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\harshith\\Downloads\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sub_user_list.xml",
+        "source": "C:\\Users\\harshith\\Downloads\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\src\\main\\res\\menu\\menu_sub_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\harshith\\Downloads\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_message.xml",
+        "source": "C:\\Users\\harshith\\Downloads\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\src\\main\\res\\menu\\menu_view_message.xml"
+    }
+]

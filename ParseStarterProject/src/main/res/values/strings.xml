@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_app_id">randomapplicationhbr250893</string>
+    <string name="parse_client_key">Hbr250893</string>
+
+    <string name="app_name">Teach</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user_list">UserList</string>
+    <string name="title_activity_view_message">ViewMessage</string>
+    <string name="title_activity_your_messages">YourMessages</string>
+    <string name="title_activity_your_full_message">YourFullMessage</string>
+    <string name="title_activity_selected_user_list">SelectedUserList</string>
+    <string name="title_activity_sub_user_list">SubUserList</string>
+    <string name="title_activity_view_secret_messages">ViewSecretMessages</string>
+</resources>
